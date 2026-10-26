@@ -141,3 +141,22 @@ All stock photography listed below is sourced under the permissive [Unsplash Lic
 * `assets/logo/el-nano-miami-green.svg` & `.png`
 * `assets/logo/el-nano-miami-yellow.svg` & `.png`
 * `assets/img/brand-pattern.webp` (extracted from official El Ñaño Brand Toolkit PDF)
+
+---
+
+## 4. About Us Page Photography Inventory (Temporary Stock & Placeholders)
+
+All stock photography for the About Us page is licensed under the permissive [Unsplash License](https://unsplash.com/license) for commercial and non-commercial use, easily replaceable with client-provided original photographs.
+
+* **Team Member 1 (Executive Chef)**: `assets/img/about/team-chef.jpg` & `.webp`
+  * **Native Dimensions**: 800 × 1000 px (4:5 portrait)
+  * **Source**: Unsplash photo `photo-1577219491135-ce391730fb2c` by Elevate
+  * **Role**: Temporary stock placeholder for Executive Chef profile card.
+* **Team Member 2 (Hospitality Director & GM)**: `assets/img/about/team-hospitality.jpg` & `.webp`
+  * **Native Dimensions**: 800 × 1000 px (4:5 portrait)
+  * **Source**: Unsplash photo `photo-1581299894007-aaa50297cf16` by Michael Dam
+  * **Role**: Temporary stock placeholder for General Manager / Hospitality Lead profile card.
+* **Team Member 3 (Beverage Director & Mixologist)**: `assets/img/about/team-mixologist.jpg` & `.webp`
+  * **Native Dimensions**: 800 × 1000 px (4:5 portrait)
+  * **Source**: Unsplash photo `photo-1574015974293-817f0ebebb74` by Kobby Mendez
+  * **Role**: Temporary stock placeholder for Beverage Director / Head Mixologist profile card.
